@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.0226b087.chunk.css",
+    "main.js": "/weather-app/static/js/main.136763ca.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.136763ca.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.416c303e.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.416c303e.js.map",
+    "static/css/2.f2512455.chunk.css": "/weather-app/static/css/2.f2512455.chunk.css",
+    "static/js/2.789c5cb6.chunk.js": "/weather-app/static/js/2.789c5cb6.chunk.js",
+    "static/js/2.789c5cb6.chunk.js.map": "/weather-app/static/js/2.789c5cb6.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/weather-app/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.0226b087.chunk.css.map": "/weather-app/static/css/main.0226b087.chunk.css.map",
+    "static/js/2.789c5cb6.chunk.js.LICENSE.txt": "/weather-app/static/js/2.789c5cb6.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/weather-app/static/media/pexels-eberhard-grossgasteiger-844297.d66ecb1e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.416c303e.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.789c5cb6.chunk.js",
+    "static/css/main.0226b087.chunk.css",
+    "static/js/main.136763ca.chunk.js"
+  ]
+}
